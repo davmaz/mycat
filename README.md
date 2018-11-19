@@ -1,3 +1,7 @@
+See Email with subject: docker golang modules frances campoy 
+dated 11/18/2018
+I copied the Email into the README.md and it messed up the formatting
+
 On linux, install docker: https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04
 
 If you want to avoid typing sudo whenever you run the docker command, add your username to the docker group:
